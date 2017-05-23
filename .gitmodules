@@ -1,0 +1,3 @@
+[submodule "helsso"]
+	path = helsso
+	url = git@github.com:suutari-ai/helsso.git
