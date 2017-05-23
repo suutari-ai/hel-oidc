@@ -4,3 +4,6 @@
 [submodule "django-helusers"]
 	path = django-helusers
 	url = git@github.com:suutari-ai/django-helusers.git
+[submodule "kerrokantasi"]
+	path = kerrokantasi
+	url = git@github.com:suutari-ai/kerrokantasi.git
