@@ -7,3 +7,6 @@
 [submodule "kerrokantasi"]
 	path = kerrokantasi
 	url = git@github.com:suutari-ai/kerrokantasi.git
+[submodule "kerrokantasi-ui"]
+	path = kerrokantasi-ui
+	url = git@github.com:suutari-ai/kerrokantasi-ui.git
