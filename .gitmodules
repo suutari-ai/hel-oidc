@@ -1,3 +1,6 @@
 [submodule "helsso"]
 	path = helsso
 	url = git@github.com:suutari-ai/helsso.git
+[submodule "django-helusers"]
+	path = django-helusers
+	url = git@github.com:suutari-ai/django-helusers.git
